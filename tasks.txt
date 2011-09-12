@@ -1,0 +1,2 @@
+* es5 shim try/catch around defineProperty test in IE 8
+* Some mods against Narcissus code, do an inject test with raw code and diff to see.
